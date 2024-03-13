@@ -32,8 +32,4 @@ function compararTodos(){
 }
 
 compararTodos()
-console.log(palavrasEscolaFundador.matched)
-console.log(palavrasCursosTecnicos.matched)
-console.log(palavrasMatricula.matched)
-console.log(palavrasNadaHaver.matched)
 mostProbablyQuestion()
